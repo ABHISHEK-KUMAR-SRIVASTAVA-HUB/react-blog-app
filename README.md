@@ -3,7 +3,7 @@
 
 #### Step 1: Clone the repository
 
-#### Step 2: Go inside the Project folder
+#### Step 2: Go inside the Project folder in CLI
 
 #### Step 3: npm istall
 
