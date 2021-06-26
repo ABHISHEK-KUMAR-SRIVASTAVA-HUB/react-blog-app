@@ -1,0 +1,144 @@
+[
+    {   
+        "id": "1",
+        "title": "Science",
+        "rating": 1,
+        "description": "Science is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "2",
+        "title": "Maths",
+        "rating": 2,
+        "description": "Maths is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "3",
+        "title": "English",
+        "rating": 5,
+        "description": "English is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "4",
+        "title": "History",
+        "rating": 3,
+        "description": "History is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "5",
+        "title": "Geography",
+        "rating": 3,
+        "description": "Geography is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "6",
+        "title": "Civics",
+        "rating": 1,
+        "description": "Civics is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "7",
+        "title": "Computer Science",
+        "rating": 3,
+        "description": "Computer Science is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "8",
+        "title": "Science",
+        "rating": 4,
+        "description": "Science is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "111",
+        "title": "Maths",
+        "rating": 3,
+        "description": "Maths is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "122",
+        "title": "English",
+        "rating": 5,
+        "description": "English is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "9",
+        "title": "History",
+        "rating": 4,
+        "description": "History is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {   
+        "id": "10",
+        "title": "Geography",
+        "rating": 2,
+        "description": "Geography is good ten",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "11",
+        "title": "Geography",
+        "rating": 1,
+        "description": "Geography is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "12",
+        "title": "Arts",
+        "rating": 1,
+        "description": "Arts is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "13",
+        "title": "Commerce",
+        "rating": 1,
+        "description": "Commerce is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "14",
+        "title": "Economics",
+        "rating": 1,
+        "description": "Economics is good one",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "15",
+        "title": "Biology",
+        "rating": 4,
+        "description": "Biology is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "16",
+        "title": "Psychology",
+        "rating": 5,
+        "description": "Psychology is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "17",
+        "title": "Neural Network",
+        "rating": 1,
+        "description": "Neural Network is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    },
+    {
+        "id": "18",
+        "title": "Airtificial Intelligence",
+        "rating": 3,
+        "description": "Airtificial Intelligence is good",
+        "detail": "Overall, the results are concerning, says study coauthor Jeremy Walsh, an exercise physiologist who at the time of the study was at the Children’s Hospital of Eastern Ontario Research Institute in Ottawa, Canada. Only 5 percent of the children met all three guidelines on screen time, exercise and sleep, the survey revealed. Twenty-nine percent of the children didn’t meet any of the guidelines, meaning that “they’re getting less than nine hours of sleep, they’re on their screens for longer than two hours and they’re not being physically active, Walsh says. “This raises a flag."
+    }
+
+]
+  
